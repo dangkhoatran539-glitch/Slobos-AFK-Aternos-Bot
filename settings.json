@@ -8,7 +8,7 @@
   "server": {
     "ip": "trandangkhoa1.aternos.me:42110",
     "port": 42110,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
